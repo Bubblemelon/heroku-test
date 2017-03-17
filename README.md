@@ -75,10 +75,14 @@ https://dashboard.heroku.com/apps/
 
 https://aqueous-atoll-17679.herokuapp.com/  [may not be active]
 
-### Learnt about adding Submodules here:
+
+### How to add Submodules can be found here:
+
 https://github.com/blog/2104-working-with-submodules
 
-In reference to php starter code from Heroku.
+The link above explains/clarifies the question found in: http://stackoverflow.com/questions/14448601/what-does-this-green-icon-mean-in-a-github-repository
+
+This is in reference to my experience when adding the heroku remote repository into my "heroku-test"repository.
 
 
 
