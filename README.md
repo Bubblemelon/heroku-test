@@ -2,9 +2,9 @@
 Exploring Heroku
 
 ### Reference:
-https://devcenter.heroku.com/articles/getting-started-with-php
+[https://devcenter.heroku.com/articles/getting-started-with-php]
 
-https://github.com/heroku/php-getting-started 
+[https://github.com/heroku/php-getting-started]
 
 ### Installing Heroku Commandline Interface:
 
@@ -69,18 +69,18 @@ for app in $(heroku apps); do heroku apps:destroy --app $app --confirm $app; don
 ```
 _To Manualy Delete individual apps:_
 
-https://dashboard.heroku.com/apps/
+[https://dashboard.heroku.com/apps/]
 
 ### Deployed Example
 
-https://aqueous-atoll-17679.herokuapp.com/  [may not be active]
+[https://aqueous-atoll-17679.herokuapp.com/]  [may not be active]
 
 
 ### How to add Submodules can be found here:
 
-https://github.com/blog/2104-working-with-submodules
+[https://github.com/blog/2104-working-with-submodules]
 
-The link above explains/clarifies the question found in: http://stackoverflow.com/questions/14448601/what-does-this-green-icon-mean-in-a-github-repository
+The link above explains/clarifies the question found in: [http://stackoverflow.com/questions/14448601/what-does-this-green-icon-mean-in-a-github-repository]
 
 This is in reference to my experience when adding the heroku remote repository into my "heroku-test"repository.
 
